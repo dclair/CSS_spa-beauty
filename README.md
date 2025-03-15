@@ -3,7 +3,8 @@
 * Primera tarea entregable para evaluar las habilidades de CSS aprendidas.
 * El proyecto es una maquetación CSS, **no **responsive, diseñada para Desktop.
    Podemos ver este proyecto [CSS_Spa-Beauty](https://dclair.github.io/CSS_spa-beauty/)
-  
+  ![Header Spa&Beauty](Spa&Beauty.png)
+
 * Date: 15 de marzo de 2025 (sábado).
 * Author: José Manuel Declara Lanzas (Dclair).
  
